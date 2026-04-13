@@ -27,3 +27,8 @@ Grafana OSS, SRE, OpenTelemetry, Observability에 관심 있는 분이라면 누
 
 - **주최**: Grafana & Friends Seoul, Organizer 장재호
 - **후원**: Grafana Labs, Sionic AI
+
+
+---
+
+Sven의 세션은 현재 공개가 불가능한 상태라고 전달받았습니다. 공개 가능한 때가 되면 최신화 할 수 있도록 하겠습니다.
