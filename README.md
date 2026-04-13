@@ -1,1 +1,1 @@
-# meetup
+# Grafana & Friends Seoul Meetup
